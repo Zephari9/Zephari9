@@ -50,6 +50,6 @@
 
 ## My passions and hobbies
 
-👨‍💻 I spend most of my days at my PC, implementing new features, automating tasks in my life, and playing video games.
+👨‍💻 I spend most of my days at my PC, implementing new features, automating tasks in my life and playing video-games.
 
 🌲 In addition to my tech interests, I'm also a nature lover who enjoys trekking.
