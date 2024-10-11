@@ -11,7 +11,7 @@
 
 ⚙️ I have experience working with a variety of programming languages, including **JavaScript**, **Java spring boot** and **Python**.
 
-🤖 My primary focus are **Node.js**, **Angular** and Azure with Terraform for scalable web and DevOps Solutions.
+🤖 My primary focus are **Node.js**, **Angular** and **Azure** with **Terraform** for scalable web and DevOps Solutions.
 
 📖 Additionally, I have a strong interest in project management methodologies, specifically **Agile** and **Scrum**.
 
