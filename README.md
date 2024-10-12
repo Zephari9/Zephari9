@@ -9,7 +9,7 @@
 
 📚 I'm mainly interested in Development and DevOps.
 
-⚙️ I have experience working with a variety of programming languages, including **JavaScript**, **Java spring boot** and **Python**.
+⚙️ I have experience working with a variety of programming languages, including **JavaScript**, **Java**, **C** and **Python**.
 
 🤖 My primary focus are **Node.js**, **Angular** and **Azure** with **Terraform** for scalable web and DevOps Solutions.
 
