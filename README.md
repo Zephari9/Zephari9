@@ -9,9 +9,9 @@
 
 📚 I'm mainly interested in Development and DevOps.
 
-⚙️ I have experience working with a variety of programming languages, including **JavaScript**, **Java**, **C** and **Python**.
+⚙️ I have experience working with a variety of programming languages, including **JavaScript**, **Java** and **Python**.
 
-🤖 My primary focus are **Node.js**, **Angular** and **Azure** with **Terraform** for scalable web and DevOps Solutions.
+🤖 My primary focus are **Node.js** and **Azure** with **Terraform** for scalable web and DevOps Solutions.
 
 📖 Additionally, I have a strong interest in project management methodologies, specifically **Agile** and **Scrum**.
 
@@ -26,8 +26,6 @@
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu)
 ![image](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1Ee)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo)
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
