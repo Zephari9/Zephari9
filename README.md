@@ -7,24 +7,31 @@
 ## <code>whoami</code>
 🔭 I currently work as a Software Developer
 
-📚 I'm mainly interested in Development and DevOps.
+📚 I'm mainly interested in Development, Testing and DevOps.
 
-## My technical background
+## My main technical background
 
 ![image](https://img.shields.io/badge/Typescript-0000ff?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu)
+![image](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![image](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo)
+
 ![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu)
-![image](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1Ee)
-![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo)
+![image](https://img.shields.io/badge/kubernetes-326CE5?&style=plastic&logo=kubernetes&logoColor=white)
+![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![image](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest)
 
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+## I also have a technical background in FE development
+
+![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![image](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 
 
 ## My passions and hobbies
