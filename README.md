@@ -9,12 +9,6 @@
 
 📚 I'm mainly interested in Development and DevOps.
 
-⚙️ I have experience working with a variety of programming languages, including **JavaScript**, **Java** and **Python**.
-
-🤖 My primary focus are **Node.js** and **Azure** with **Terraform** for scalable web and DevOps Solutions.
-
-📖 Additionally, I have a strong interest in project management methodologies, specifically **Agile** and **Scrum**.
-
 ## My technical background
 
 ![image](https://img.shields.io/badge/Typescript-0000ff?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,20 +24,7 @@
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![image](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-
-
-## Currently learning
-![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-(plus all of the above)
 
 
 ## My passions and hobbies
