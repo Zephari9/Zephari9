@@ -30,7 +30,7 @@
 ## I also have a technical background in FE development
 
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![image](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+![image](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 
 ## My passions and hobbies
