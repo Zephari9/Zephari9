@@ -13,7 +13,6 @@
 
 ![image](https://img.shields.io/badge/Typescript-0000ff?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu)
-![image](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![image](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo)
 
