@@ -7,7 +7,7 @@
 ## <code>whoami</code>
 🔭 I currently work as a Software Developer
 
-📚 I'm mainly interested in Development, Testing and DevOps.
+📚 I'm mainly interested in Development and DevOps.
 
 ## My main technical background
 
